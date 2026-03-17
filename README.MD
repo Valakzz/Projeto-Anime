@@ -21,6 +21,11 @@ Detalhes do uso da APi
 ```
 https://kitsu.io/api/edge
 ```
+Site online via git pages
+```
+https://valakzz.github.io/Projeto-Anime/
+```
+
 #
 ## ✅ Funcionalidades Implementadas
 - [x] Botão para busca rápida
